@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Lisang Ding, and I am a fifth-year PhD student in the Department of Mathematics at UCLA, under the supervision of [Prof. Stanley Osher](https://www.math.ucla.edu/~sjo/) and [Prof. Wotao Yin](https://wotaoyin.mathopt.com/). I am expected to graduate in June 2025. My research interests are optimization, machine learning algorithms, and mean-field physical models.
