@@ -6,9 +6,9 @@ title: Lisang Ding
 first_name: Shiung Wu
 last_name: Chien
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -138,10 +138,10 @@ skills:
         percent: 80
         icon: camera
 
-# languages:
-#   - name: English
-#   - name: Chinese
-#   - name: Japanese
+languages:
+  - name: English
+  - name: Chinese
+  - name: Japanese
 
 # Awards.
 #   Add/remove as many awards below as you like.
