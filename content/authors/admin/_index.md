@@ -177,4 +177,4 @@ awards:
 
 ## About Me
 
-<!-- My name is Lisang Ding. I am a fifth-year PhD student in the Department of Mathematics at UCLA, under the supervision of [Prof. Stanley Osher](https://www.math.ucla.edu/~sjo/) and [Prof. Wotao Yin](https://wotaoyin.mathopt.com/). I am expected to graduate in June 2025. My research interests are optimization, machine learning algorithms, and mean-field physical models. -->
+My name is Lisang Ding. I am a fifth-year PhD student in the Department of Mathematics at UCLA, under the supervision of [Prof. Stanley Osher](https://www.math.ucla.edu/~sjo/) and [Prof. Wotao Yin](https://wotaoyin.mathopt.com/). I am expected to graduate in June 2025. My research interests are optimization, machine learning algorithms, and mean-field physical models.
