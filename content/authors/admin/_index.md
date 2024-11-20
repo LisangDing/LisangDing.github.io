@@ -1,6 +1,9 @@
 ---
 # Display name
-title: Lisang Ding
+title: 吳健雄
+
+# Name pronunciation (optional)
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -44,15 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Optimization
-  - Machine Learning
-  - Mean-Field Physical Models
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD in Mathematics
-    institution: University of California, Los Angeles
-    date_start: 2020-09
-    date_end: 2025-06
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -140,8 +143,11 @@ skills:
 
 languages:
   - name: English
+    percent: 100
   - name: Chinese
-  - name: Japanese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -177,4 +183,4 @@ awards:
 
 ## About Me
 
-My name is Lisang Ding. I am a fifth-year PhD student in the Department of Mathematics at UCLA, under the supervision of [Prof. Stanley Osher](https://www.math.ucla.edu/~sjo/) and [Prof. Wotao Yin](https://wotaoyin.mathopt.com/). I am expected to graduate in June 2025. My research interests are optimization, machine learning algorithms, and mean-field physical models.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
